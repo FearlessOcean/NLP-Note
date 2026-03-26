@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32b45ebdaaf555cf",
+        "id": "5b98d5d5fb99ac03",
         "type": "tabs",
         "children": [
           {
-            "id": "428c5368d28b06fd",
+            "id": "9ec5fd39d8ed759f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedding.md",
+                "file": "Detial/linear分数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedding"
+              "title": "linear分数"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "793dbff2952b2e30",
@@ -184,8 +183,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "428c5368d28b06fd",
+  "active": "9ec5fd39d8ed759f",
   "lastOpenFiles": [
-    "Embedding.md"
+    "git-commit.bat",
+    "log.txt",
+    "test_debug.md",
+    "Detial/RNN输出.pdf",
+    "Detial/linear分数.pdf",
+    "Embedding.pdf",
+    "md2pdf.bat",
+    "新建 文本文档.txt",
+    "Model.md",
+    "Detial/RNN输出.md",
+    "Detial/linear分数.md",
+    "Embedding.md",
+    "Detial"
   ]
 }
